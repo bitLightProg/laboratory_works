@@ -46,7 +46,7 @@ void sort(int in[], int a, int b)
 int main()
 {
 	int arr[10] = { 5, 2 , 1 , 7 , 8, 0, 3, 4, 6, 9 };
-	sort(arr, 0, 9);
+	sort(arr, 10);
 	system("pause");
 	return 0;
 }
